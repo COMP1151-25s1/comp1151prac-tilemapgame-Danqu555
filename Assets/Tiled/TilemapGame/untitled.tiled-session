@@ -1,0 +1,30 @@
+{
+    "activeFile": "TinyDungeon_Tilesheet.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "TinyDungeon_TilemapDraft.tmx": {
+            "scale": 2.3230468749999997,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -255.91390617117878,
+                "y": -767.9569530855895
+            }
+        },
+        "TinyDungeon_Tilesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "openFiles": [
+        "TinyDungeon_TilemapDraft.tmx",
+        "TinyDungeon_Tilesheet.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "TinyDungeon_TilemapDraft.tmx",
+        "TinyDungeon_Tilesheet.tsx"
+    ]
+}
